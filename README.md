@@ -1,12 +1,12 @@
 # Natural ou Fake Natty? Vendedor Surdo x cliente ouvinte, como a IA Generativa vem intermediando a comunicação e a venda
 
 ## 📒 Descrição
-Esse video apresenta um diálogo entre um vendedor surdo e um cliente ouvinte, que usa a IA Generativa Vira-texto para transcrever os audios que a cliente envia pelo WhatsApp, facilitando a comunicação entre ambos. 
+Esse video apresenta um diálogo entre um vendedor surdo e um cliente ouvinte, que usa a IA Generativa Vira-texto, para transcrever os audios que a cliente envia pelo WhatsApp, facilitando a comunicação entre ambos. 
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT e Copilot para roteirização do diálogo
+ChatGPT e Copilot para roteirização do diálogo.
 Viratexto na transcrição do áudio para texto.
-CapCut para edição do video
+CapCut para edição do video.
 Canva para gerar imagenscom IA e edição e finalização do video.
 
 ## 🧐 Processo de Criação
