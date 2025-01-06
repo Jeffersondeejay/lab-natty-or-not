@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natural ou Fake Natty? Vendedor Surdo x cliente ouvinte, como a IA Generativa vem intermediando a comunicação e a venda
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse video apresenta um diálogo entre um vendedor surdo e um cliente ouvinte, que usa a IA Generativa Vira-texto para transcrever os audios que a cliente envia pelo WhatsApp, facilitando a comunicação entre ambos. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT e Copilot para roteirização do diálogo
+Viratexto na transcrição do áudio para texto.
+CapCut para edição do video
+Canva para gerar imagenscom IA e edição e finalização do video.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Iniciei o processo utilizando o ChatGPT e o Copilot para elaborar o roteiro e o texto do diálogo, além de realizar a revisão. Em seguida, usei dois celulares para gravar o diálogo. Para a transcrição do áudio em texto, utilizei o Viratexto: o celular da pessoa surda já tinha o Viratexto configurado nos contatos, e os áudios recebidos eram encaminhados para o aplicativo, que fazia a transcrição, permitindo que a pessoa surda compreendesse a pergunta do cliente e respondesse adequadamente. Após isso, editei o vídeo no CapCut. Na etapa final, para criação da capa e finalização do vídeo, utilizei o Canva.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Esse vídeo apresentou ao espectador uma alternativa ágil que a IA tem proporcionado na comunicação entre surdos e ouvintes, eliminando barreiras de comunicação via WhatsApp. O Viratexto supriu essa necessidade, transcrevendo corretamente, com raros pequenos erros que não impedem a interpretação do contexto do texto. A única limitação é o tempo, pois o serviço só transcreve áudios de até 4 minutos.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A principal reflexão está na capacidade de adaptação e uso estratégico de tecnologias acessíveis para resolver problemas reais, promovendo a inclusão e a autonomia. O processo também destaca a importância de planejar cada etapa com cuidado, desde a criação do conteúdo até a entrega final, para garantir que a comunicação seja clara, eficiente e impactante para todos os envolvidos. Esse tipo de trabalho exemplifica como a tecnologia pode ser usada para promover igualdade e fortalecer a interação entre diferentes públicos.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
