@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Vendedor Surdo x cliente ouvinte, como a IA Generativa vem intermediando a comunicação e a venda
+# Natural ou Fake Natty? Vendedor Surdo x Cliente Ouvinte, como a IA Generativa vem intermediando a comunicação e a venda
 
 ## 📒 Descrição
 Esse video apresenta um diálogo entre um vendedor surdo e um cliente ouvinte, que usa a IA Generativa Vira-texto, para transcrever os audios que a cliente envia pelo WhatsApp, facilitando a comunicação entre ambos. 
